@@ -6,7 +6,7 @@
     "dev": "npx tsx --watch server.ts",
     "start": "node dist/server.js",
     "type-check": "tsc --noEmit",
-    "build": "tsc"
+    "build": ""
   },
   "keywords": [],
   "author": "",
